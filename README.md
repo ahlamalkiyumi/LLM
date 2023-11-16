@@ -1,4 +1,4 @@
-# Goal: Explore the application of unsupervised machine learning methods on emergency department (ED) visit narratives about older (age 65+) adult falls. Ultimately, insights gained through such analyses can help inform policies and interventions to reduce older adult falls.
+### Goal: Explore the application of unsupervised machine learning methods on emergency department (ED) visit narratives about older (age 65+) adult falls. Ultimately, insights gained through such analyses can help inform policies and interventions to reduce older adult falls.
 ## Summary of the approach:
 ### Data preparation
 Primary data was used for the analysis. The data were mapped with their variable and then age, and sex were removed from the narrative. Two new columns were added to the primary data. The first one (narrrative_processed) is to translate the abbreviations in narrative and convert narrative to lowercase. The second column (big_narrative) helps the model understand that the fall has happened, and the narrative is the description.
