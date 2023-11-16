@@ -12,6 +12,5 @@ It's better to perform separate iterations using the T5 model for each specific 
 The EDA was performed by using the top counts in each of the columns.
 
 ### References:
-https://www.drivendata.org/competitions/217/cdc-fall-narratives/community-code/13/ 
-
-https://www.drivendata.org/competitions/217/cdc-fall-narratives/community-code/52/
+- https://www.drivendata.org/competitions/217/cdc-fall-narratives/community-code/13/ 
+- https://www.drivendata.org/competitions/217/cdc-fall-narratives/community-code/52/
